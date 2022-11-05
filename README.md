@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eyup</h1>
 <h3 align="center">Passionate backend developer since 10 years old</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupeminoglu&label=Profile%20views&color=0e75b6&style=flat-square" alt="eyupeminoglu" /> </p>
+
 - 👀 I’m interested in **PHP, JavaScript, NodeJS**
 
 - 🌱 I’m currently learning **Java Language**
